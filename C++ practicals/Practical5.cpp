@@ -1,3 +1,5 @@
+// Write a program to merge two ordered arrays to get a single ordered array.
+
 #include <iostream>
 using namespace std;
 
